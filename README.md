@@ -1,16 +1,27 @@
-## Hi there 👋
+## 📈 GitHub Stats
 
-<!--
-**lprnmns/lprnmns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lprnmns&show_icons=true)
 
-Here are some ideas to get you started:
+![GitHub Streak](https://streak-stats.demolab.com?user=lprnmns)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lprnmns&radius=12)
+
+## 🧠 Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lprnmns&layout=compact)
+
+## 🏆 Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=lprnmns)
+
+
+
+---
+
+## 🔖 Badges
+
+![Followers](https://img.shields.io/github/followers/lprnmns?style=social)
+![Stars](https://img.shields.io/github/stars/lprnmns?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
