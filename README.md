@@ -4,13 +4,13 @@ Final-year Computer Engineering student in Türkiye, working on backend and AI s
 
 I find bugs in widely used open-source software by checking it against a reference (the spec, the official test suite, or another implementation), then fix each one with a test that proves it.
 
-[Portfolio](https://alperenmanas.app) · [LinkedIn](https://linkedin.com/in/alperen-manas) · [Email](mailto:manasalperen@gmail.com)
+[Portfolio](https://alperenmanas.app) · [LinkedIn](https://www.linkedin.com/in/alperen-manas-a92aa2378/) · [Email](mailto:manasalperen@gmail.com)
 
 &nbsp;
 
 | Highlights | |
 |---|---|
-| **150 merged PRs** in 56 open-source projects | including [Vite](https://github.com/vitejs/vite/pull/23780), [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel/pull/14375), [Node.js undici](https://github.com/nodejs/undici/pull/6031), [Material UI](https://github.com/mui/material-ui/pull/49090), [three.js](https://github.com/mrdoob/three.js/pull/34459) |
+| **152 merged PRs** in 56 open-source projects | including [Vite](https://github.com/vitejs/vite/pull/23780), [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel/pull/14375), [Node.js undici](https://github.com/nodejs/undici/pull/6031), [Material UI](https://github.com/mui/material-ui/pull/49090), [three.js](https://github.com/mrdoob/three.js/pull/34459) |
 | **1st place** | Monad Blitz blockchain hackathon, 2025 |
 | **Finalist + Best System Design Award** | TEKNOFEST 2026, Air Defense Systems |
 | **2 live products** | [Zenith Trader](https://zenithtrader.alperenmanas.app) (100+ users) · [Klinik Akış AI](https://klinikakis.com) |
@@ -23,7 +23,7 @@ I find bugs in widely used open-source software by checking it against a referen
 I ran it against test262 (the official ECMAScript test suite) and other parsers, then fixed the places where it accepted invalid code or rejected valid code.
 Examples: [`for await` in class static blocks](https://github.com/meriyah/meriyah/pull/680) · [`let` as an arrow parameter in strict mode](https://github.com/meriyah/meriyah/pull/671) · [`await` in a non-async arrow body](https://github.com/meriyah/meriyah/pull/673)
 
-**[minijinja](https://github.com/mitsuhiko/minijinja)**: template engine by the creator of Flask and Jinja2. **15 merged PRs.**
+**[minijinja](https://github.com/mitsuhiko/minijinja)**: template engine by the creator of Flask and Jinja2. **17 merged PRs.**
 I made the Go port behave exactly like the Rust reference: filters, comparisons, slicing, strict-undefined handling.
 Examples: [negative-step slicing panic](https://github.com/mitsuhiko/minijinja/pull/1002) · [`tojson` float output](https://github.com/mitsuhiko/minijinja/pull/983) · [`trim` and Unicode whitespace](https://github.com/mitsuhiko/minijinja/pull/989)
 
