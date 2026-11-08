@@ -10,7 +10,7 @@ I find bugs in widely used open-source software by checking it against a referen
 
 | Highlights | |
 |---|---|
-| **152 merged PRs** in 56 open-source projects | including [Vite](https://github.com/vitejs/vite/pull/23780), [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel/pull/14375), [Node.js undici](https://github.com/nodejs/undici/pull/6031), [Material UI](https://github.com/mui/material-ui/pull/49090), [three.js](https://github.com/mrdoob/three.js/pull/34459) |
+| **162 merged PRs** in 56 open-source projects | including [Vite](https://github.com/vitejs/vite/pull/23780), [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel/pull/14375), [Node.js undici](https://github.com/nodejs/undici/pull/6031), [Material UI](https://github.com/mui/material-ui/pull/49090), [three.js](https://github.com/mrdoob/three.js/pull/34459) |
 | **1st place** | Monad Blitz blockchain hackathon, 2025 |
 | **Finalist + Best System Design Award** | TEKNOFEST 2026, Air Defense Systems |
 | **2 live products** | [Zenith Trader](https://zenithtrader.alperenmanas.app) (100+ users) · [Klinik Akış AI](https://klinikakis.com) |
